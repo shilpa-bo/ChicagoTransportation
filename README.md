@@ -10,5 +10,4 @@ The repository contains various scripts for preprocessing, analyzing, and visual
 * `od_analysis.ipynb`: Origin Destination demand analysis. Computes highest cost pairs, simulates new links based on these pairs as a idealized metro system
 * `resilience_analysis.ipynb`: Network Resilience Analysis
 
-
- report will be linked soon.
+The report is under the file: Chicago_Transportation_Analysis.pdf
